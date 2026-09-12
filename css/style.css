@@ -458,7 +458,7 @@ textarea:focus-visible {
    ========================================================================== */
 
 .about-grid {
-  width: 2030px;
+  /* width: 2030px; */
   display: grid;
   grid-template-columns: 1.3fr 1fr;
   gap: 1.75rem;
