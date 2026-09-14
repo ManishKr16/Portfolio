@@ -9,11 +9,11 @@
   /* Color */
   --bg: #090c14;
   --bg-soft: #0d1120;
-  --violet: hsl(0, 0%, 100%);
+  --violet: hsl(243, 59%, 27%);
   --violet-soft: hwb(255 63% 14%);
   --teal: #2dd4bf;
   --text: #eef0fb;
-  --text-dim: #97a0c3;
+  --text-dim: #fbfbfc;
   --text-faint: #5f6890;
 
   /* Glass */
