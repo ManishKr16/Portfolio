@@ -64,8 +64,8 @@
   height: 36px;
   flex: 0 0 auto;
   border-radius: 50%;
-  color: #fff;
-  background: linear-gradient(135deg, var(--violet), #9b7bff);
+  color: #f26969;
+  background: linear-gradient(135deg, var(--violet), #1e0ad0);
   font-family: var(--font-display);
   font-weight: 700;
   font-size: 0.8rem;
@@ -115,7 +115,7 @@
 
 .chatbot-message a { color: var(--teal); text-decoration: underline; }
 .chatbot-message--bot { align-self: flex-start; background: var(--glass-bg-strong); border-bottom-left-radius: 4px; }
-.chatbot-message--user { align-self: flex-end; color: #fff; background: var(--violet); border-bottom-right-radius: 4px; }
+.chatbot-message--user { align-self: flex-end; color: #ffffff; background: var(--violet); border-bottom-right-radius: 4px; }
 
 .chatbot-quick-replies {
   display: flex;
